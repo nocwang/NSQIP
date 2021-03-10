@@ -24,6 +24,11 @@ If you find it useful, please cite our paper as follows:
   year={2020},
   publisher={Public Library of Science San Francisco, CA USA}
 }
+@phdthesis{wang2020data,
+  title={Data analytics and optimization methods in biomedical systems: from microbes to humans},
+  author={Wang, Taiyao},
+  year={2020}
+}
 ```
 
 ## R code for NSQIP
